@@ -92,3 +92,7 @@
 0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:13:57 +0900] "GET /join/register.jsp HTTP/1.1" 200 766
 0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:14:11 +0900] "POST /join/RegisterServlet HTTP/1.1" 302 -
 0:0:0:0:0:0:0:1 - - [07/Nov/2023:14:14:11 +0900] "GET /join/register_success.jsp HTTP/1.1" 200 370
+127.0.0.1 - - [07/Nov/2023:20:41:58 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:41:59 +0900] "GET /join/RegisterServlet HTTP/1.1" 405 825
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:42:10 +0900] "GET /join/register.jsp HTTP/1.1" 200 766
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:42:10 +0900] "GET /join/styles.css HTTP/1.1" 200 1235
