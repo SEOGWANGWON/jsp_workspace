@@ -1,4 +1,0 @@
-INDEX VERSION 1.4+C:\Users\user1\sevlet-jsp-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-853856796.index
-3167889792.index
-624549074.index
